@@ -7,21 +7,21 @@
   </a>
 </p>
 
-# Hi 👋 This is Jahid Ibna Basher. I build custom Neural Network for fun. And I am here to help you build your own. Reach out via [Email](mailto:mohammadjahid1504037@gmail.com).
+# Hi 👋 This is Jahid Ibna Basher. I build custom Neural Network for fun. And I am here to help you build your own.
 
 Here are some ideas to get you started:
-- 📫 How to reach me: ... [@Jahid Ibna Basher](https://www.linkedin.com/in/jahid37/)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jahid37/) or [Email](mailto:mohammadjahid1504037@gmail.com)
 - 🔭 I’m currently working as an NLP Engineer at [jahid.ibna@hishab.co](https://hishab.co/)
 - 🌱 I’m currently Working on `Neural Speech Synthesis`, `Large Language Modeling`, `Physics Informed Neural Network`
-- 👯 I’m looking to collaborate on `Egocentric Multimodal Representation Learning`, `VLM`
-- 💬 Ask me about `ML`, `Deep Learning`, `NLP`, `Computer Vision`, `Data Science`, `Python`
+- 👯 I’m looking to collaborate on `Egocentric Multimodal Representation Learning`, `VLM`, `NLP`
+- 💬 Ask me about `Mathematics for Machine/Deep Learning`, `Generative Modeling`, `AI Philosophy`
 
 - ```python
   __TECH_SKILS__ = {
     "Language": ["Python", "Bash", "C/C++", "Java"],
-    "Dev": ["Git", "Docker","VS-Code", "Linux", "Slack",]
+    "Dev": ["Git", "Docker", "VS-Code", "Linux", "Slack",]
     "ML/DL": [
-      "PyTorch", "PyTorch Lighting", "TensorFlow", "Keras", "ONNX"
+      "PyTorch/PyTorch Lighting", "TensorFlow/Keras", "ONNX",
       "Scikit-learn", "Numpy", "Pandas", "OpenCV", "Matplotlib"
     ],
     "Web": ["Flask", "FastAPI"],
