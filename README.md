@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jahid37/) or [Email](mailto:mohammadjahid1504037@gmail.com)
-- 🔭 I’m currently working as an NLP Engineer at [jahid.ibna@hishab.co](https://hishab.co/)
+- 🔭 I’m currently working as an NLP Engineer at [Hishab Technologies Limited](https://hishab.co/)
 - 🌱 I’m currently Working on `Neural Speech Synthesis`, `Large Language Modeling`, `Physics Informed Neural Network`
 - 👯 I’m looking to collaborate on `Egocentric Multimodal Representation Learning`, `VLM`, `NLP`
 - 💬 Ask me about `Mathematics for Machine/Deep Learning`, `Generative Modeling`, `AI Philosophy`
