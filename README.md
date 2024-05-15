@@ -7,7 +7,7 @@
   </a>
 </p>-->
 
-# Hi 👋 This is Jahid Ibna Basher. I code Neural Networks for fun. And I can help you build your own.
+# Hi 👋 This is Jahid Ibna Basher. I code Neural Networks for fun. And I can help you code your own.
 
 About Me:
 - 🔭 I currently serve as an NLP Engineer at [Hishab Technologies Limited](https://hishab.co/)
