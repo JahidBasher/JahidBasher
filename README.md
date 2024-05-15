@@ -10,7 +10,7 @@
 # Hi 👋 This is Jahid Ibna Basher. I build Custom Neural Network for fun. And I can help you build your own.
 
 Here are some ideas to get you started:
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jahid37/) or [Email](mailto:mohammadjahid1504037@gmail.com)
+- 📫 Reach me @[LinkedIn](https://www.linkedin.com/in/jahid37/)/[Email](mailto:mohammadjahid1504037@gmail.com)
 - 🔭 I’m currently working as an NLP Engineer at [Hishab Technologies Limited](https://hishab.co/)
 - 🌱 Professionally, I’m currently Working on `Neural Speech Synthesis`, `Large Language Modeling`
 - 👯 I’m looking to collaborate on `Egocentric Multimodal Representation Learning`, `VLM`, `NLP`, `Physics Informed Neural Network`
