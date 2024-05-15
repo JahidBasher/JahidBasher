@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     "Language": ["Python", "Bash", "C/C++", "Java"],
     "Dev": ["Git", "Docker", "VS-Code", "Linux", "Slack",]
     "ML/DL": [
-      "PyTorch/PyTorch Lighting", "TensorFlow/Keras", "ONNX",
+      "PyTorch", "PyTorch Lightning", "TensorFlow", "Keras", "ONNX",
       "Scikit-learn", "Numpy", "Pandas", "OpenCV", "Matplotlib"
     ],
     "Web": ["Flask", "FastAPI"],
