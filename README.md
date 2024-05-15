@@ -7,15 +7,15 @@
   </a>
 </p>-->
 
-# Hi 👋 This is Jahid Ibna Basher. I build Custom Neural Network for fun. And I can help you build your own.
+# Hi 👋 This is Jahid Ibna Basher. I code Neural Networks for fun. And I can help you build your own.
 
-Here are some ideas to get you started:
-- 📫 Reach me @[LinkedIn](https://www.linkedin.com/in/jahid37/)/[Email](mailto:mohammadjahid1504037@gmail.com)
+About Me:
 - 🔭 I currently serve as an NLP Engineer at [Hishab Technologies Limited](https://hishab.co/)
 - 🌱 Professionally, I’m currently working on `Neural Speech Synthesis`, `Large Language Modeling`
 - 👯 I’m looking to collaborate on `Egocentric Multimodal Representation Learning`, `VLM`, `NLP`, `Physics Informed Neural Network`
 - 💬 Ask me about `Mathematics for Machine/Deep Learning`, `Generative Modeling`, `AI Philosophy`
-
+- 📫 Reach me @[LinkedIn](https://www.linkedin.com/in/jahid37/)/[Email](mailto:mohammadjahid1504037@gmail.com)
+  
 - ```python
   __TECH_SKILS__ = {
     "Language": ["Python", "Bash", "C/C++", "Java"],
