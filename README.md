@@ -1,11 +1,11 @@
-<p align="left">
+<!---<p align="left">
   <a href="https://github.com/JahidBasher?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/JahidBasher?color=green&logo=github">
   </a>
   <a href="https://github.com/JahidBasher/">
     <img src="https://komarev.com/ghpvc/?username=JahidBasher" alt="visitors" />
   </a>
-</p>
+</p>-->
 
 # Hi 👋 This is Jahid Ibna Basher. I build Custom Neural Network for fun. And I can help you build your own.
 
