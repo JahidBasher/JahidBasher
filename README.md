@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       "Scikit-learn", "Numpy", "Pandas", "OpenCV", "Matplotlib"
     ],
     "Web": ["Flask", "FastAPI"],
-    "Cloud": ["GCP", "AWS Lambda"],
+    "Cloud": ["GCP", "AWS"],
     "Others": ["LaTex", "Atlassian"],
   }
   ```
