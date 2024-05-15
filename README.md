@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# Hi 👋 This is Jahid Ibna Basher. I build Custom Neural Network for fun. And I am here to help you build your own.
+# Hi 👋 This is Jahid Ibna Basher. I build Custom Neural Network for fun. And I can help you build your own.
 
 Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jahid37/) or [Email](mailto:mohammadjahid1504037@gmail.com)
