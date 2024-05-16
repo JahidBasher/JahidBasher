@@ -14,7 +14,7 @@ About Me:
 - 🌱 Professionally, I’m currently working on `Neural Speech Synthesis`, `Large Language Modeling`
 - 👯 I’m looking to collaborate on `Egocentric Multimodal Representation Learning`, `VLM`, `NLP`, `Physics Informed Neural Network`
 - 💬 Ask me about `Mathematics for Machine/Deep Learning`, `Generative Modeling`, `AI Philosophy`
-- 📫 Contact me @[LinkedIn](https://www.linkedin.com/in/jahid37/) or [Email](mailto:mohammadjahid1504037@gmail.com)
+- 📫 Contact me [LinkedIn](https://www.linkedin.com/in/jahid37/) or [Email](mailto:mohammadjahid1504037@gmail.com)
   
 - ```python
   __TECH_SKILS__ = {
