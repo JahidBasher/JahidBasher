@@ -19,14 +19,14 @@ About Me:
 - ```python
   __TECH_SKILS__ = {
     "Language": ["Python", "Bash", "C/C++", "Java"],
-    "Dev": ["Git", "Docker", "VS-Code", "Linux", "Slack",]
+    "Dev": ["Git", "Docker", "Docker-Compose", "Nginx"]
     "ML/DL": [
-      "PyTorch", "PyTorch Lightning", "TensorFlow", "Keras", "ONNX",
-      "Scikit-learn", "Numpy", "Pandas", "OpenCV", "Matplotlib"
+      "PyTorch", "PyTorch Lightning", "HuggingFace", "TensorFlow", "Keras",
+      "ONNX", "Scikit-learn", "Numpy", "Pandas", "OpenCV", "Matplotlib"
     ],
     "Web": ["Flask", "FastAPI"],
     "Cloud": ["GCP", "AWS"],
-    "Others": ["LaTex", "Atlassian"],
+    "Others": ["LaTex", "Slack", "Atlassian"],
   }
   ```
 <!---
